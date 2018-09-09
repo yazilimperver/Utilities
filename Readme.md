@@ -8,4 +8,4 @@ Each item may require specific actions. So check corresponding items.
 
 ## Content
 
-* GitHub ReadMe.md Template. You can use this template for your git repositories.
+* [**GitHub ReadMe.md Template**](https://github.com/yazilimperver/Utilities/blob/master/ReadMeTemplate.md) - You can use this template for your git repositories.
